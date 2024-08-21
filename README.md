@@ -46,6 +46,7 @@ Welcome to the official repository for "The Gallery Café" website. This project
    git clone https://github.com/yourusername/gallery-cafe.git
    cd gallery-cafe
 ### Landing Page
+![Picture1](https://github.com/user-attachments/assets/391c9454-203a-4151-9aaf-5f0428863a1c)
 
 ### Admin Panel
 ![Picture2](https://github.com/user-attachments/assets/7cb16286-bdb5-4f1d-9dc7-587b22d99d9a)
