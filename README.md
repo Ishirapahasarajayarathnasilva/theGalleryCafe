@@ -45,3 +45,7 @@ Welcome to the official repository for "The Gallery Café" website. This project
    ```bash
    git clone https://github.com/yourusername/gallery-cafe.git
    cd gallery-cafe
+### Landing Page
+
+### Admin Panel
+![Picture2](https://github.com/user-attachments/assets/7cb16286-bdb5-4f1d-9dc7-587b22d99d9a)
